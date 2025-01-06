@@ -16,7 +16,4 @@
 
 ## 视频展示
 
-<video width="640" height="360" controls>
-  <source src="../assets/数字红会视频.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+[点击下载视频](../assets/数字红会视频.mp4)

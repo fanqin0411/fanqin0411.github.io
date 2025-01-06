@@ -10,7 +10,9 @@
 
 ## 海报展示
 
-![海报展示](../assets/海报（2）.png)
+<div style="text-align: center;">
+  <img src="../assets/数字红会海报.png" alt="海报展示" width="400">
+</div>
 
 ## 视频展示
 

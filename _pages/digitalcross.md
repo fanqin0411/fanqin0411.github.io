@@ -8,7 +8,7 @@
 
 ![改进后的界面](../assets/3_界面稿.png)
 
-<center><img src="../assets/数字红会海报.png" alt="海报展示" width="400"></center>
+<img src="../assets/数字红会海报.png" alt="海报展示" width="400" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## 海报展示
 

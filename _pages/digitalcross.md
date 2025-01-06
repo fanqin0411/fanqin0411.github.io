@@ -10,10 +10,9 @@
 
 ## 海报展示
 
-<div style="text-align: center;">
-  <img src="../assets/数字红会海报.png" alt="海报展示" width="600">
-</div>
+![海报展示](../assets/数字红会海报.png)
 
-## 视频展示
+## 视频和PPT
 
 [点击下载视频](../assets/数字红会视频.mp4)
+[点击下载PPT](../assets/压缩数字红会PPT.pdf)

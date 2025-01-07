@@ -20,7 +20,7 @@ redirect_from:
 - **学校与院系**：浙江大学 计算机科学与技术学院  
 - **专业与年级**：工业设计 大三  
 - **居住地**：杭州  
-- **邮箱**：3220103004@zju.edu.cn  
+- **邮箱**：adashelby@zju.edu.cn  
 
 ---
 
@@ -48,7 +48,7 @@ redirect_from:
 ### 技能
 
 - **熟练**：C/C++, Figma, Unity, 剪映, Arduino, Rhino, Keyshot  
-- **略了解**：OpenGL, HTML/CSS, Python, AI, Stable Diffusion, MidJourney  
+- **略了解**：tableau, OpenGL, HTML/CSS, Python, AI, Stable Diffusion, MidJourney  
 
 ---
 

@@ -1,19 +1,13 @@
-## 数字红会项目简介
+## SolarCharSphere 水体微塑料净化装置
 
-这是一个UX设计作品，我们对“数字红会”app进行了改进，主要是简化了整体架构并凸显了关键功能、优化了整体配色和UI布局。
+这是我在大二的时候五人合作完成的一个生态设计作品。在产品设计过程中，我们重点关注技术、材料的落地性和产品ROI。我们希望我们的产品能低成本有效解决“水产养殖中微塑料过量”的问题。
 
-经过 用户行为数据调研->总结现存界面问题->竞品分析->对界面再设计 ，我们得到了最终的作品。
+## PPT以及视频
 
-## 视频和PPT
+https://www.canva.cn/design/DAGd3FjaomA/ls5MygGIu-nxoPO1H8AOSw/edit?utm_content=DAGd3FjaomA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[点击下载视频](../assets/数字红会视频.mp4)
+## 版面展示
 
-[点击下载PPT](../assets/数字红会PPT.pdf)
+![版面展示](../assets/微塑料1.png)
 
-## 改进后的界面
-
-![改进后的界面](../assets/数字红会界面稿.png)
-
-## 海报展示
-
-![海报展示](../assets/数字红会海报.png)
+![版面展示](../assets/微塑料2.png)

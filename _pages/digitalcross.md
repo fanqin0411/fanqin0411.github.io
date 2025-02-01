@@ -8,7 +8,7 @@
 
 [点击下载视频](../assets/数字红会视频.mp4)
 
-[点击下载PPT](../assets/压缩数字红会PPT.pdf)
+[点击下载PPT](../assets/数字红会PPT.pdf)
 
 ## 改进后的界面
 

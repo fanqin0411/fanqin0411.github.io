@@ -12,4 +12,4 @@ MBTI（Myers-Briggs Type Indicator）是一种流行的性格测试工具，被�
 
 ## 最终呈现
 
-![MBTI可视化](../assets/季节性分析上.png)
+![MBTI可视化](../assets/visMBTI.png)

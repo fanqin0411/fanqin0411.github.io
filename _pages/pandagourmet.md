@@ -8,6 +8,4 @@
 
 ## 海报展示
 
-![海报展示1](../assets/pandagourmet_poster1.png)
-
-![海报展示2](../assets/pandagourmet_poster2.png)
+![海报展示](../assets/pandagourmet_poster.png)

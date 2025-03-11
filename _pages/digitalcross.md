@@ -12,8 +12,8 @@
 
 ## 改进后的界面
 
-![改进后的界面](../assets/数字红会界面稿.png)
+![改进后的界面](../assets/digitalcross_final.png)
 
 ## 海报展示
 
-![海报展示](../assets/数字红会海报.png)
+![海报展示](../assets/digitalcross_poster.png)

@@ -8,6 +8,6 @@ https://www.canva.cn/design/DAGd3FjaomA/ls5MygGIu-nxoPO1H8AOSw/edit?utm_content=
 
 ## 版面展示
 
-![版面展示](../assets/微塑料1.png)
+![版面展示](../assets/watercleaner1.png)
 
-![版面展示](../assets/微塑料2.png)
+![版面展示](../assets/watercleaner2.png)

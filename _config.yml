@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "AdaShelby个人主页"
+title                    : "泛秦の个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,12 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "myphoto.png"
-  name             : "寿翌童"
+  name             : "葛沣亭"
   pronouns         : # example: "she/her"  
   location         : "杭州"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "adashelby@zju.edu.cn" 
+  email            : "fanqin0411@163.com" 
+  bio              : "夏が遠くて"
 
  
 # Publication Category - The following the list of publication categories and their headings

@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "首页"
+    url: /about/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "项目经历"
+    url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "作品介绍"
+    url: /works/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "游戏经历"
+    url: /game_experience/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "游戏拆解"
+    url: /game-analyse/
     
-  - title: "CV"
-    url: /cv/
+  - title: "个人demo"
+    url: /demo/
     
   # - title: "CV"
   #   url: /cv-json/

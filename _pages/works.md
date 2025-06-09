@@ -4,7 +4,6 @@ title: "作品介绍"
 author_profile: true
 ---
 
-## 作品介绍
 
 ### 互联网相关
 

@@ -18,7 +18,7 @@ redirect_from:
 
 - **姓名**：葛沣亭  
 - **学校与院系**：浙江大学 计算机科学与技术学院  
-- **专业与年级**：工业设计 大三  
+- **专业与年级**：工业设计 大四  
 - **居住地**：杭州  
 - **邮箱**：fanqin0411@163.com 
 
@@ -46,10 +46,13 @@ redirect_from:
   - 实体、结构与制造
   - 产品形式与方式设计
   - 人因工程与机器行为学
+  - 文化构成与创新设计
+  - 信息产品设计
+  - 信息与交互技术
 
 ### 技能
 
-- **熟练**：C/C++, Figma, Ps, Pr, Arduino, Stable Diffusion, Rhino, Keyshot  
-- **略了解**：Blender, tableau, OpenGL, HTML/CSS, Python, AI, Ae, MidJourney 
+- **熟练**：C/C++/C#, Figma, Ps, Pr, Arduino, Stable Diffusion, Rhino, Keyshot, Unity   
+- **略了解**：Blender, Excel, tableau, OpenGL, HTML/CSS, Python, AI, Ae, MidJourney 
 
 ---

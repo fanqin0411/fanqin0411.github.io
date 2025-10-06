@@ -55,5 +55,5 @@
 ## 五、结项成果
 
 - **结项报告**  [点击下载文件](../assets/成果报告.pdf)
-- **结项PPT**  [点击下载文件](../assets/SRTP结项答辩.pptx)
+- **结项PPT**  [点击下载文件](../assets/SRTP结题答辩.pptx)
 - **代码**  [点击下载文件](../assets/srtp_code.zip)

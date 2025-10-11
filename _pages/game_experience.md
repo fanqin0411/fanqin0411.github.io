@@ -1,5 +1,5 @@
 ---
-permalink: /game-experience/
+permalink: /game_experience/
 title: "游戏经历"
 author_profile: true
 ---

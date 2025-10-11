@@ -4,10 +4,6 @@ title: "游戏经历"
 author_profile: true
 ---
 
-## 游戏经历
-
----
-
 ## Slg类游戏：
 
 1. **Stellaris（群星）**  

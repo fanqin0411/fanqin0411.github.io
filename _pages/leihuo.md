@@ -4,8 +4,10 @@
 
 我参与拼接的界面目前已经上线。此处仅作部分展示。
 
-![界面展示](../assets/leihuo1.png)
+![界面展示](../assets/leihuo1.jpg)
 
-![界面展示](../assets/leihuo2.png)
+![界面展示](../assets/leihuo2.jpg)
 
-![界面展示](../assets/leihuo3.png)
+![界面展示](../assets/leihuo3.jpg)
+
+![界面展示](../assets/leihuo4.jpg)

@@ -20,5 +20,5 @@ author_profile: true
 - **[捡捡钱](./money.md)**  
   这是我在校内gamejam中产出的箭箭剑like+模拟经营游戏策划案，目前正在开发中。
 
-- **[即刻羽球](../asset/VRbadminton.pdf)**  
+- **[即刻羽球](../assets/VRbadminton.pdf)**  
   这是我在暑期实习过程中产出的第一人称VR运动游戏设计文档，点击即可查看。

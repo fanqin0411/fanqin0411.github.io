@@ -4,9 +4,9 @@ title: "游戏拆解"
 author_profile: true
 ---
 
-### 偶像养成类音游-《偶像梦幻祭2》
+## 偶像养成类音游-《偶像梦幻祭2》
 
-## 系统拆解
+### 系统拆解
 
 [点击下载拆解报告](../assets/es2_system.pdf)
 
@@ -16,7 +16,7 @@ author_profile: true
 
 ![系统图片展示](../assets/es2_sys3.png)
 
-## 文化构成拆解
+### 文化构成拆解
 
 ![报告展示](../assets/es2_cultural1.pdf)
 

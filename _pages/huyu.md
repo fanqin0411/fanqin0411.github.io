@@ -6,6 +6,7 @@
 
 - 我利用AI工具独立完成了第一人称运动VR游戏的设计，产出了游戏的系统设计、核心循环、界面设计、交互手势库等多个模块，实现了沉浸式界面设计和有区分度的交互设计。
 
+点击链接查看游戏设计稿：https://www.figma.com/board/eqNIaQ4bPt4roye2ycMxah/Untitled?node-id=0-1&t=ryWyzf2xRStdnjtw-1
 
 [点击下载游戏设计文档](../assets/VRbadminton.pdf)
 

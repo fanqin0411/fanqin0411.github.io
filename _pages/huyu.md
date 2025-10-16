@@ -10,6 +10,6 @@
 
 [点击下载游戏设计文档](../assets/VRbadminton.pdf)
 
-[点击下载实习述职材料](../assets/huyu.pptx)
+[点击下载实习述职材料](../assets/huyu.pdf)
 
 
